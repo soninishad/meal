@@ -1,0 +1,101 @@
+/*------------------ services----------  */
+
+.my-sec {
+    height: 300px;
+    margin-left: 0px;
+    margin: 18px;
+    border-radius: 20px;
+    background-image: url('../img/12\ \(2\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: 4px solid rgb(111, 90, 90);
+}
+
+.my-sec-inner {
+    color: rgb(0, 0, 0);
+    width: 50%;
+    height: 30%;
+    font-family: Elephant;
+    margin-left: 90px;
+}
+
+.my-sec-inner2 {
+    /* color: rgb(255, 255, 255,0.5); */
+    color: rgb(24, 24, 24);
+    width: 60%;
+    height: 60%;
+    font-family: Elephant;
+    margin-left: 50px;
+}
+
+.my-sec-inner3 {
+    color: rgb(0, 0, 0);
+    width: 45%;
+    height: 40%;
+    font-family: Elephant;
+    margin-left: 80px;
+
+}
+
+/* --------------------------img------------------ */
+
+.main {
+    height: 400px;
+    width: 100%;
+    margin: 0px;
+    background-size: cover;
+    background-image: url('../img/obg.jpg');
+}
+
+.main-text-inner {
+    margin-top: 95px;
+    color: white;
+    text-align: center;
+    /* font-family: monotype corsiva; */
+    /* font-family: calibri; */
+    /* font-family: Britannic Bold; */
+    font-family: Elephant;
+}
+
+.now {
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    background-color: rgb(187, 187, 85);
+}
+
+/* client */
+.our {
+    height: 200px;
+    width: 100%;
+    background-image: url('../img/bg\ img.jpg');
+    background-size: cover;
+    margin: 0px;
+    border-top: 1px solid gray;
+    /* border: 1px solid gray; */
+    opacity: 0.7;
+
+}
+
+/*----contact---- */
+.contact {
+    background-image: url('../img/businessman.jpg');
+    height: 260px;
+    width: 100%;
+    /* background-size: cover; */
+    margin: 0px;
+    opacity: 0.8;
+    color: white;
+}
+
+.bg {
+    width: 100%;
+    /* height: 450px; */
+    height: 350px;
+    margin: 0px;
+    /* background-image: url('../img/bg\ img.jpg'); */
+    background-image: url('../img/backgr.jpg');
+    background-size: cover;
+    opacity: 0.5;
+}
